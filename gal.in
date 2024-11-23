@@ -1,0 +1,56 @@
+"sigma"
+s a
+s a2
+s a3
+s r
+s (Mul r a)
+s (Mul r a2)
+s (Mul r a3)
+"tau"
+t a
+t a2
+t a3
+t r
+t (Mul r a)
+t (Mul r a2)
+t (Mul r a3)
+"sigma^2"
+s2 a
+s2 a2
+s2 a3
+s2 r
+s2 (Mul r a)
+s2 (Mul r a2)
+s2 (Mul r a3)
+"sigma^3"
+s3 a
+s3 a2
+s3 a3
+s3 r
+s3 (Mul r a)
+s3 (Mul r a2)
+s3 (Mul r a3)
+"sigma tau"
+st a
+st a2
+st a3
+st r
+st (Mul r a)
+st (Mul r a2)
+st (Mul r a3)
+"sigma^2 tau"
+s2t a
+s2t a2
+s2t a3
+s2t r
+s2t (Mul r a)
+s2t (Mul r a2)
+s2t (Mul r a3)
+"sigma^3 tau"
+s3t a
+s3t a2
+s3t a3
+s3t r
+s3t (Mul r a)
+s3t (Mul r a2)
+s3t (Mul r a3)
